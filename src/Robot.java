@@ -1,4 +1,5 @@
 public class Robot implements Participant {
+
     private int maxRunDistance;
     private float maxHeightJump;
     private boolean onDistance;

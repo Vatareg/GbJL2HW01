@@ -1,4 +1,5 @@
 public class RunTrack implements Obstacle {
+
     private int distance;
 
     public RunTrack(int distance) {
