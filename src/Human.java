@@ -1,4 +1,5 @@
 public class Human implements Participant {
+
     private int maxRunDistance;
     private int maxHeightJump;
     private boolean onDistance;

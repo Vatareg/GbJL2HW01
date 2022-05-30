@@ -6,7 +6,7 @@ public static void main(String[] args){
             new Human(6000, 2),
             new Human(2500, 1),
             new Robot(5000000, 0),
-            new Robot(5000200, 0)
+            new Robot(2800, 15)
     };
 
     Obstacle[] obstacles = {

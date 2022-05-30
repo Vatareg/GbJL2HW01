@@ -1,4 +1,5 @@
 public class Cat implements Participant {
+
     private int maxRunDistance;
     private int maxHeightJump;
     private boolean onDistance;
